@@ -45,11 +45,6 @@ Run the `main.py` script to send an image to the OCR API and save the response i
 ```python
 python main.py
 ```
-### 2. Running the OCR Process
-Run the `main.py` script to send an image to the OCR API and save the response in a JSON file:
-```python
-python main.py
-```
 ### 3. Processing the JSON Response
 Run the `process.py` script to process the JSON response and save the extracted data into a CSV file:
 ```python
