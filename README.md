@@ -35,11 +35,6 @@ Replace the API key in main.py with your own key:
 ```python
 'api-key':'YOUR_API_KEY'
 ```
-### 1. Setup OCR API
-Replace the API key in main.py with your own key:
-```python
-'api-key':'YOUR_API_KEY'
-```
 ### 2. Running the OCR Process
 Run the `main.py` script to send an image to the OCR API and save the response in a JSON file:
 ```python
