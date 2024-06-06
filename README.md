@@ -58,5 +58,6 @@ python process.py
 ## Contributing
 Feel free to contribute to this project by submitting issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
 ## Acknowledgements
-- (Asprise OCR API)[https://asprise.com/] for providing the OCR capabilities.
+[Asprise OCR API](https://asprise.com/) for providing the OCR capabilities.
+
   
