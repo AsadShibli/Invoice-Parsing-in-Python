@@ -1,4 +1,4 @@
-# Invoice Parsing in Python
+# Receipt and Invoice Parsing in Python
 This project automates the process of parsing receipts and invoices using Optical Character Recognition (OCR) in Python. The system utilizes an external API for OCR processing and extracts relevant data from the receipts and invoices, which is then saved into a CSV file for further analysis.
 
 ## Project Structure:
